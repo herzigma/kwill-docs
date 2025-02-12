@@ -1,0 +1,7 @@
+site_name: Kwill Documentation
+nav: 
+  - Home: index.md
+  - Updates: version.md
+  - Terms of Service: terms.md
+theme:
+  name: material
